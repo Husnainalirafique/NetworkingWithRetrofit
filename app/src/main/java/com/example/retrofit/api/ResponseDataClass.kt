@@ -1,4 +1,4 @@
-package com.example.retrofit.retrofitkotlin
+package com.example.retrofit.api
 
 data class ResponseDataClass(
 //    val author: String,
